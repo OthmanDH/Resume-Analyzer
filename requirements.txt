@@ -1,0 +1,4 @@
+openai==1.6.1
+PyPDF2==3.0.1
+Python-docx==1.1.0
+easyocr==1.7.1
